@@ -1,0 +1,49 @@
+
+h1.display-4{
+      margin-top: 27px;
+      font-size: 69px;
+      font-weight: 1000 !important;
+      color: #ffffff !important;
+  }
+  ul.list-group li{
+    background-color: #a6afbc !important;
+  }
+  .navbar{
+    margin-bottom : 25px;
+    background-color: #4c5460 !important;
+    padding: 0 ;
+  }
+ul li{
+  color: black !important;
+}
+.language {
+  float: right;
+  position: absolute;
+  padding: 25px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+.text-html {
+  color: orangered !important;
+}
+.text-php {
+  color: rgb(119, 123, 179) !important;
+}
+.text-ts {
+  color: rgb(40, 117, 195) !important;
+}
+.text-ts {
+  color: rgb(149, 61, 172) !important;
+}
+.text-r {
+  color: red !important;
+}
+.text-c {
+  color: black !important;
+}
+.text-ph {
+  color: rgb(53, 112, 159) !important;
+}
+.text-cp {
+  color: rgb(100, 155, 210) !important;
+}
